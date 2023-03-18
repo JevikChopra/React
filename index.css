@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading{
+  text-align: center;
+  color: blue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-transform: capitalize;
+  margin: 10px;
+}
+.change{
+  text-align: center;
+  color: red;
+  text-decoration:dashed;
+  margin: 12px;
+}
+.imgage{
+  display: flex;
+justify-content: center;
+}
+.imgage img{
+  height: 400px;
+  width: 400px;
+  margin: 5px;
+  padding: 15px;
+
+}
